@@ -5,3 +5,6 @@ Our project harnesses the power of artificial intelligence to generate captivati
 - *Image to Story Generation*: Converts a series of three images into a rich narrative.
 - *Dynamic and Engaging*: Produces unique and varied stories each time.
 - *User-Friendly Interface*: Simple and intuitive design for seamless user experience.
+
+
+![Description of Image](https://github.com/lisa1612/AIStoryteller/blob/main/generatedstory.png?)
